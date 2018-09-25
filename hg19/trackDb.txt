@@ -1,0 +1,6 @@
+track vaiTestBigBed
+bigDataUrl wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+shortLabel hosted bigBed example
+longLabel This bigBed file is an example from the ENCODE RNA-seq Caltech Track
+type bigBed
+visibility dense

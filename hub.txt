@@ -1,0 +1,5 @@
+hub VAITestHub
+shortLabel A VAI Test Hub
+longLabel This is to testing hosting trackhubs on s3
+genomesFile genomes.txt
+email admin@vai.org 
